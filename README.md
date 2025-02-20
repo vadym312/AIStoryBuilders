@@ -12,7 +12,7 @@ Write your next novel faster and easier.
 
 * [Documentation](https://documentation.aistorybuilders.com/)
 
-* [github.com/vadym312/AIStoryBuilders/AIStoryBuildersOnline](https://github.com/vadym312/AIStoryBuilders/AIStoryBuildersOnline)
+* [github.com/vadym312/AIStoryBuilders/AIStoryBuildersOnline](https://github.com/vadym312/AIStoryBuilders)
 
 #
 
@@ -21,7 +21,7 @@ https://github.com/vadym312/AIStoryBuilders/assets/1857799/c9960378-b9b0-40c1-be
 
 ## A Project of [AIStoryBuilders](https://github.com/vadym312/AIStoryBuilders)
 
-* [AIOrchestrator](https://github.com/vadym312/AIStoryBuilders/AIOrchestrator)
+* [AIOrchestrator](https://github.com/vadym312/AIStoryBuilders)
 
 ### Data Structure
 
