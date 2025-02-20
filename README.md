@@ -12,7 +12,7 @@ Write your next novel faster and easier.
 
 * [Documentation](https://documentation.aistorybuilders.com/)
 
-* [github.com/vadym312/AIStoryBuilders/AIStoryBuildersOnline](https://github.com/vadym312/AIStoryBuilders)
+* [github.com/vadym312/AIStoryBuilders](https://github.com/vadym312/AIStoryBuilders)
 
 #
 
