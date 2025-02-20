@@ -1,5 +1,5 @@
 # AIStoryBuilders
-![image](https://github.com/ADefWebserver/AIStoryBuilders/assets/1857799/a28481bd-ca40-4777-9bc7-33421ec7d1fb)
+![image](https://github.com/vadym312/AIStoryBuilders/assets/1857799/a28481bd-ca40-4777-9bc7-33421ec7d1fb)
 
 Write your next novel faster and easier.
 
@@ -12,20 +12,20 @@ Write your next novel faster and easier.
 
 * [Documentation](https://documentation.aistorybuilders.com/)
 
-* [github.com/AIStoryBuilders/AIStoryBuildersOnline](https://github.com/AIStoryBuilders/AIStoryBuildersOnline)
+* [github.com/vadym312/AIStoryBuilders/AIStoryBuildersOnline](https://github.com/vadym312/AIStoryBuilders/AIStoryBuildersOnline)
 
 #
 
-https://github.com/ADefWebserver/AIStoryBuilders/assets/1857799/c9960378-b9b0-40c1-be4f-70d6441a007a
+https://github.com/vadym312/AIStoryBuilders/assets/1857799/c9960378-b9b0-40c1-be4f-70d6441a007a
 
 
-## A Project of [AIStoryBuilders](https://github.com/AIStoryBuilders)
+## A Project of [AIStoryBuilders](https://github.com/vadym312/AIStoryBuilders)
 
-* [AIOrchestrator](https://github.com/AIStoryBuilders/AIOrchestrator)
+* [AIOrchestrator](https://github.com/vadym312/AIStoryBuilders/AIOrchestrator)
 
 ### Data Structure
 
-![image](https://github.com/ADefWebserver/AIStoryBuilders/assets/1857799/1c07f3ef-7bd7-4ed5-bd60-eac802fd84ac)
+![image](https://github.com/vadym312/AIStoryBuilders/assets/1857799/1c07f3ef-7bd7-4ed5-bd60-eac802fd84ac)
 
 - **Story**
   - *Title*
